@@ -1,7 +1,7 @@
 # Machine-Learning-Capstone-Project--Credit Card Fraud Detection
 
 # Project Title :Credit Card Fraud Detection
-# Problem Statement:
+Problem Statement:
 With the increasing prevalence of online transactions, ensuring the security of credit card
 transactions is very important. The objective of this project is to develop a robust machine
 learning model capable of accurately detecting fraudulent credit card transactions in real-time.
